@@ -9,3 +9,4 @@ Welcome to HTB-WriteUps. Here you can find a list of my writeups for HackTheBox 
 6. [Resolute](https://pkd5085.medium.com/htb-ad-track-resolute-walkthrough-9597cb5a4d74?source=friends_link&sk=71c7aaec59729c032fcd88d799a7dfe4)
 7. [Blackfield](https://pkd5085.medium.com/htb-ad-track-blackfield-walkthrough-1d363ab0983a?sk=cf98ea9ab5f4e22d1b22d55805a1b266)
 8. [Reel](https://pkd5085.medium.com/htb-ad-track-reel-walkthrough-de82dfbba05a?source=friends_link&sk=453e9320fc18a2851794be6e195407f8)
+9. [Cascade](https://pkd5085.medium.com/htb-ad-track-cascade-walkthrough-4f2912b493d7?sk=6da66c8e100bb063515bc7aec2daf2f8)
